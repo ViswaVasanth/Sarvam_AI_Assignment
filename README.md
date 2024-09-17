@@ -55,20 +55,17 @@ The Smart Agent Query System is a solution designed to handle user queries throu
     Start the Flask server:
 
     ```bash
-    python <your_flask_script>.py
+    python Sarvam_exp.py
     ```
-
-    Replace `<your_flask_script>.py` with the name of your Flask script (e.g., `app.py`).
 
 5. **Run the Gradio Interface**
 
     In a separate terminal, execute:
 
     ```bash
-    python <your_gradio_script>.py
+    python Sarvam_Deployment.py
     ```
 
-    Replace `<your_gradio_script>.py` with the name of your Gradio script (e.g., `gradio_interface.py`).
 
 ## Usage
 
